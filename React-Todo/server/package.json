@@ -12,7 +12,11 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.1",
+    "moongoose": "^0.0.5"
   },
   "devDependencies": {
     "concurrently": "^9.1.2"
